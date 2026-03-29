@@ -41,7 +41,7 @@ Veri İşleme Katmanı
 | cuDNN | 9.3 |
 | İşletim Sistemi | Ubuntu 24.04 |
 | GPU (min.) | 6GB VRAM (RTX 2060 veya üzeri) |
-| 16 GB RAM |
+| RAM | 16 GB RAM |
 
 
 ---
