@@ -51,7 +51,7 @@ Veri İşleme Katmanı
 ### 1. Repoyu klonlayın
 
 ```bash
-git clone https://github.com/kullanici/proje-adi.git
+git clone https://github.com/onurorakci/Document-Chatbot
 cd proje-adi
 ```
 
