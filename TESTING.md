@@ -141,4 +141,4 @@ E-Tablolar'a aktar
 
 ## 5. Sonuç Kararı
 
-Gerek "belgede olmayan bilgiye halüsinasyon üretmeme" konusundaki %100'lük başarısı, gerek zorlu OCR senaryolarındaki %90'lık performansı, gerekse genel ortalamada (%81.1) rakiplerine açık ara fark atması sebebiyle projenin ana motoru olarak **Qwen 3.0 4B** modeli seçilmiştir.
+Gerek "belgede olmayan bilgiye halüsinasyon üretmeme" konusundaki %100'lük başarısı, gerek zorlu OCR senaryolarındaki %90'lık performansı, gerekse genel ortalamada (%81.1) doğruluk oranı sebebiyle projenin ana motoru olarak **Qwen 3.0 4B** modeli seçilmiştir.
