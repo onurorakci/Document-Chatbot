@@ -52,7 +52,7 @@ Veri İşleme Katmanı
 
 ```bash
 git clone https://github.com/onurorakci/Document-Chatbot
-cd proje-adi
+cd Document-Chatbot
 ```
 
 ### 2. Sanal ortam oluşturun ve aktif edin
